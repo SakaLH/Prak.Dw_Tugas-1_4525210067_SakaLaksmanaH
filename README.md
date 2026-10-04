@@ -5,7 +5,7 @@ Project ini merupakan tugas praktikum HTML untuk membuat halaman biodata pribadi
 
 ## Screenshot
 
-![Screenshot Halaman Profil](img/screenshot.png)
+<img width="955" height="881" alt="image" src="https://github.com/user-attachments/assets/dddecfcd-1886-4924-8d6a-94132bdc7eb8" />
 
 ## Identitas
 - Nama: Saka Laksmana Harimurti
